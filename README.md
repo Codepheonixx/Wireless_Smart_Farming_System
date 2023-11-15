@@ -13,6 +13,6 @@ An Arduino based project which uses HC-05 Bluetooth module for communicaton and 
 
 ## Picture of the project
 
-![Circuit](Shots/IMG_20230507_203912.jpg)
+![Circuit](https://github.com/Codepheonixx/Wireless_Smart_Farming_System/assets/144486135/b7ae742d-e870-4731-b61e-8066006a0ffc)
 
-![Application](Shots/IMG_20230510_140303.jpg)
+![Application](https://github.com/Codepheonixx/Wireless_Smart_Farming_System/assets/144486135/018857e5-f779-4c8d-88d2-356526313f22)
